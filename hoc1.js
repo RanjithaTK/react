@@ -7,6 +7,7 @@ function area(radius) {
   return output
 }
 console.log(area(radius))
+// console.log(area(radius))
 
 const diameter = (radius) => {
   const output = []
